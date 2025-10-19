@@ -53,5 +53,30 @@
             "Outerwear",
             "Accessories"
         ]
+    },
+    
+
+    {
+        "name": "4F",
+        "founded": 2003 ,
+        "headquarters": "Krakow, Poland",
+        "employees": 850,
+        "products": [
+            "Casual Wear",
+            "Outerwear",
+            "Accessories"
+        ]
+    },
+
+    {
+        "name": "ralph lauren",
+        "founded": 1967 ,
+        "headquarters": "New york, USA",
+        "employees": 10000,
+        "products": [
+            "Casual Wear",
+            "Outerwear",
+            "Accessories"
+        ]
     }
 ]

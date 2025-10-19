@@ -1,2 +1,22 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
+
+<transports>
+    <transport type="car">
+        <brand>Opel</brand>
+        <model>Vectra c</model>
+        <cost value="pln/100km">60 zł</cost>
+    </transport>
+
+    <transport type="bike">
+        <brand>Canyon</brand>
+        <model>Grand canyon al slx</model>
+        <cost value="pln/100km">0 zł</cost>
+    </transport>
+
+    <transport type="legs">
+        <brand>human</brand>
+        <model>Adam</model>
+        <cost value="pln/100km">0 zł</cost>
+    </transport>
+
+</transports>  
